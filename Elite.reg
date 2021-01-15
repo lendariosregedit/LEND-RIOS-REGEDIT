@@ -87,7 +87,7 @@ Windows Registry Editor Version 5.00
 "AndroidHeight"=dword:00000400
 "AndroidDPI"=dword:00000400
 
-[HKEY_LOCAL_MACHINE\SOFTWARE\BlueStacksmsi2\Guests\Android\sensibility\0]
+[HKEY_LOCAL_MACHINE\SOFTWARE\BlueStacks_msi2\Guests\Android\sensibility\0]
 "DPI"=dword:000007d0
 "Fov"=dword:000030e8
 "generalemulatorsensitivity"=dword:00000064
@@ -161,7 +161,3 @@ Windows Registry Editor Version 5.00
 "AndroidWidth"=dword:00000640
 "AndroidHeight"=dword:00000400
 "AndroidDPI"=dword:00000400
-
-
-
-
