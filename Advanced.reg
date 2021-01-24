@@ -1,175 +1,171 @@
-Windows Registry Editor Version 5.00
+Editor de registro do Windows versão 5.00
 
-[HKEY_CURRENT_USER\Control Panel\Mouse]
-"MouseSensitivity"="100"
-"SmoothMouseXCurve"=hex:\
-  00,00,00,00,00,00,00,00,\
-  15,6e,00,00,00,00,00,00,\
-  00,40,01,00,00,00,00,00,\
-  29,dc,03,00,00,00,00,00,\
+[HKEY_CURRENT_USER \ Control Panel \ Mouse]
+"MouseSensitivity" = "100"
+"SmoothMouseXCurve" = hex: \
+  00,00,00,00,00,00,00,00, \
+  15,6e, 00,00,00,00,00,00, \
+  00,40,01,00,00,00,00,00, \
+  29, dc, 03,00,00,00,00,00, \
   00,00,28,00,00,00,00,00
 
-"SmoothMouseYCurve"=hex:\
-"MouseSensitivity"="130"
-  00,00,00,00,00,00,00,00,\
-  b8,5e,01,00,00,00,00,00,\
-  cd,4c,05,00,00,00,00,00,\
-  cd,4c,18,00,00,00,00,00,\
+"SmoothMouseYCurve" = hex: \
+"MouseSensitivity" = "130"
+  00,00,00,00,00,00,00,00, \
+  b8,5e, 01,00,00,00,00,00, \
+  cd, 4c, 05,00,00,00,00,00, \
+  cd, 4c, 18,00,00,00,00,00, \
   00,00,38,02,00,00,00,00
 
-[HKEY_CURRENT_USER\Control Panel\Mouse]
-"ActiveWindowTracking"=dword:00000001
-"Beep"="No"
-"DoubleClickHeight"="4"
-"DoubleClickSpeed"="6000"=hex(-14):-856-64
-"DoubleClickSpeed2"="0,47"
-"DoubleClickWidth"="4"
-"DoubleClickWidth2"="0,5"
-"ExtendedSounds"="No"
-"MouseHoverHeight"=hex(-3):7,-800
-"MouseHoverHeight2"=hex(-14):-25-64
-"MouseHoverTime"="49"
-"MouseHoverWidth"="1"=hex(-14):125-65
-"MouseSensitivity"="8"=hex(-14):755-35
-"MouseSpeed"="2"
-"MouseThreshold1"="1"
-"MouseThreshold2"="3"
-"MouseTrails"="0"
-"SnapToDefaultButton"="0"
-"SwapMouseButtons"="0"
-"TcpWindowSize"=dword:0005ae4c
-"TcpNoDelay"=hex(b):7f,14,00,00,00,00,00,00
-"TCPDelAckTicks"=dword:00000005
-"Tcp1323Opts"=dword:00000003
-"TcpMaxDataRetransmissions"=dword:00000003
-"SackOpts"=dword:00000001
-"DefaultTTL"=dword:00007fff
-"Beep2"="No"
-"EnablePMTUDiscovery"=dword:00000001
-"EnablePMTUBHDetect"=dword:00000000
+[HKEY_CURRENT_USER \ Control Panel \ Mouse]
+"ActiveWindowTracking" = dword: 00000001
+"Beep" = "Não"
+"DoubleClickHeight" = "4"
+"DoubleClickSpeed" = "6000" = hex (-14): - 856-64
+"DoubleClickSpeed2" = "0,47"
+"DoubleClickWidth" = "4"
+"DoubleClickWidth2" = "0,5"
+"ExtendedSounds" = "Não"
+"MouseHoverHeight" = hex (-3): 7, -800
+"MouseHoverHeight2" = hex (-14): - 25-64
+"MouseHoverTime" = "49"
+"MouseHoverWidth" = "1" = hex (-14): 125-65
+"MouseSensitivity" = "8" = hex (-14): 755-35
+"MouseSpeed" = "60"
+"MouseThreshold1" = "1"
+"MouseThreshold2" = "3"
+"MouseTrails" = "0"
+"SnapToDefaultButton" = "0"
+"SwapMouseButtons" = "0"
+"TcpWindowSize" = dword: 0005ae4c
+"TcpNoDelay" = hex (b): 7f, 14,00,00,00,00,00,00
+"TCPDelAckTicks" = dword: 00000005
+"Tcp1323Opts" = dword: 00000003
+"TcpMaxDataRetransmissions" = dword: 00000003
+"SackOpts" = dword: 00000001
+"DefaultTTL" = dword: 00007fff
+"Beep2" = "Não"
+"EnablePMTUDiscovery" = dword: 00000001
+"EnablePMTUBHDetect" = dword: 00000000
 
-[HKEY_USERS\.DEFAULT\Control Panel\Mouse]
+[HKEY_USERS \ .DEFAULT \ Control Panel \ Mouse]
 
-"MouseSpeed"="0"
-"MouseThreshold1"="0"
-"MouseThreshold2"="0"
-"MouseHoverTime"="49"
-"Beep2"="No"
-"DoubleClickHeight2"="0,9"
-"DoubleClickSpeed2"="0,47"
-"DoubleClickWidth2"="0,5"
-"MouseHoverHeight2"=hex(-14):-25-64
+"MouseSpeed" = "60"
+"MouseThreshold1" = "0"
+"MouseThreshold2" = "0"
+"MouseHoverTime" = "49"
+"Beep2" = "Não"
+"DoubleClickHeight2" = "0,9"
+"DoubleClickSpeed2" = "0,47"
+"DoubleClickWidth2" = "0,5"
+"MouseHoverHeight2" = hex (-14): - 25-64
 
-[HKEY_LOCAL_MACHINE\SOFTWARE\BlueStacks\Guests\Android\sensibility]
+[HKEY_LOCAL_MACHINE \ SOFTWARE \ BlueStacks \ Guests \ Android \ sensibility]
 
-[HKEY_LOCAL_MACHINE\SOFTWARE\BlueStacks\Guests\Android\sensibility\0]
-"DPI"=dword:000007d0
-"Fov"=dword:000030e8
-"generalemulatorsensitivity"=dword:00000064
-"joystick"=dword:000003e8
-"keyboardSpeed"="100"
-"LEFTCLICK"=dword:000003e8
-"MouseSensitivity"=dword:00000064
-"MouseSpeed"=dword:00000064
-"sensitivity"=dword:00000064
-"SMALLESTWIDHT"=dword:000002ee
-"speedofmovement"=dword:00000064
-"touchsensitivyty"=dword:00000102
-"X"=dword:000020e8
-"Y"=dword:000003e8
-"LastInitRendererFailed_0"=dword:00000000
-"InstalledAPKList"="com.dts.freefireth,com.n0n3m4.gltools,com.noshufou.android.su,mobi.omegacentauri.red_pro,"
-"LastBsodReportTime"=dword:07e40605
-"Language"="pt_PT"
+[HKEY_LOCAL_MACHINE \ SOFTWARE \ BlueStacks \ Guests \ Android \ sensibility \ 0]
+"DPI" = dword: 000007d0
+"Fov" = dword: 000030e8
+"sensibilidade emuladores gerais" = dword: 00000064
+"joystick" = dword: 000003e8
+"keyboardSpeed" = "100"
+"LEFTCLICK" = dword: 000003e8
+"MouseSensitivity" = dword: 00000064
+"MouseSpeed" = dword: 00000064
+"sensibilidade" = dword: 00000064
+"SMALLESTWIDHT" = dword: 000002ee
+"speedofmovement" = dword: 00000064
+"touchsensitivyty" = dword: 00000102
+"X" = dword: 000020e8
+"Y" = dword: 000003e8
+"LastInitRendererFailed_0" = dword: 00000000
+"InstalledAPKList" = "com.dts.freefireth, com.n0n3m4.gltools, com.noshufou.android.su, mobi.omegacentauri.red_pro,"
+"LastBsodReportTime" = dword: 07e40605
+"Idioma" = "pt_PT"
 "com.dts.freefireth_LastUpdate"
-"com.dts.freefireth_Keyboardtips"=dword:00000001
-"AndroidWidth"=dword:00000640
-"AndroidHeight"=dword:00000400
-"AndroidDPI"=dword:00000400
+"com.dts.freefireth_Keyboardtips" = dword: 00000001
+"AndroidWidth" = dword: 00000640
+"AndroidHeight" = dword: 00000400
+"AndroidDPI" = dword: 00000400
 
-[HKEY_LOCAL_MACHINE\SOFTWARE\BlueStacksmsi\Guests\Android\sensibility]
+[HKEY_LOCAL_MACHINE \ SOFTWARE \ BlueStacksmsi \ Guests \ Android \ sensibility]
 
-[HKEY_LOCAL_MACHINE\SOFTWARE\BlueStacksmsi\Guests\Android\sensibility\0]
-"DPI"=dword:000007d0
-"Fov"=dword:000030e8
-"generalemulatorsensitivity"=dword:00000064
-"joystick"=dword:000003e8
-"keyboardSpeed"="100"
-"LEFTCLICK"=dword:000003e8
-"MouseSensitivity"=dword:00000064
-"MouseSpeed"=dword:00000064
-"sensitivity"=dword:00000064
-"SMALLESTWIDHT"=dword:000002ee
-"speedofmovement"=dword:00000064
-"touchsensitivyty"=dword:00000102
-"X"=dword:000020e8
-"Y"=dword:000003e8
-"LastInitRendererFailed_0"=dword:00000000
-"InstalledAPKList"="com.dts.freefireth,com.n0n3m4.gltools,com.noshufou.android.su,mobi.omegacentauri.red_pro,"
-"LastBsodReportTime"=dword:07e40605
-"Language"="pt_PT"
+[HKEY_LOCAL_MACHINE \ SOFTWARE \ BlueStacksmsi \ Guests \ Android \ sensibility \ 0]
+"DPI" = dword: 000007d0
+"Fov" = dword: 000030e8
+"sensibilidade emuladores gerais" = dword: 00000064
+"joystick" = dword: 000003e8
+"keyboardSpeed" = "100"
+"LEFTCLICK" = dword: 000003e8
+"MouseSensitivity" = dword: 00000064
+"MouseSpeed" = dword: 00000064
+"sensibilidade" = dword: 00000064
+"SMALLESTWIDHT" = dword: 000002ee
+"speedofmovement" = dword: 00000064
+"touchsensitivyty" = dword: 00000102
+"X" = dword: 000020e8
+"Y" = dword: 000003e8
+"LastInitRendererFailed_0" = dword: 00000000
+"InstalledAPKList" = "com.dts.freefireth, com.n0n3m4.gltools, com.noshufou.android.su, mobi.omegacentauri.red_pro,"
+"LastBsodReportTime" = dword: 07e40605
+"Idioma" = "pt_PT"
 "com.dts.freefireth_LastUpdate"
-"com.dts.freefireth_Keyboardtips"=dword:00000001
-"AndroidWidth"=dword:00000640
-"AndroidHeight"=dword:00000400
-"AndroidDPI"=dword:00000400
+"com.dts.freefireth_Keyboardtips" = dword: 00000001
+"AndroidWidth" = dword: 00000640
+"AndroidHeight" = dword: 00000400
+"AndroidDPI" = dword: 00000400
 
-[HKEY_LOCAL_MACHINE\SOFTWARE\Memu]
+[HKEY_LOCAL_MACHINE \ SOFTWARE \ Memu]
 
-[HKEY_LOCAL_MACHINE\SOFTWARE\Memu\sensibility]
+[HKEY_LOCAL_MACHINE \ SOFTWARE \ Memu \ sensibility]
 
-[HKEY_LOCAL_MACHINE\SOFTWARE\Memu\Guests\Android\sensibility\0]
-"DPI"=dword:000007d0
-"Fov"=dword:000030e8
-"generalemulatorsensitivity"=dword:00000064
-"joystick"=dword:000003e8
-"keyboardSpeed"="100"
-"LEFTCLICK"=dword:000003e8
-"MouseSensitivity"=dword:00000064
-"MouseSpeed"=dword:00000064
-"sensitivity"=dword:00000064
-"SMALLESTWIDHT"=dword:000002ee
-"speedofmovement"=dword:00000064
-"touchsensitivyty"=dword:00000102
-"X"=dword:000020e8
-"Y"=dword:000003e8
-"LastInitRendererFailed_0"=dword:00000000
-"InstalledAPKList"="com.dts.freefireth,com.n0n3m4.gltools,com.noshufou.android.su,mobi.omegacentauri.red_pro,"
-"LastBsodReportTime"=dword:07e40605
-"Language"="pt_PT"
+[HKEY_LOCAL_MACHINE \ SOFTWARE \ Memu \ Guests \ Android \ sensibility \ 0]
+"DPI" = dword: 000007d0
+"Fov" = dword: 000030e8
+"sensibilidade emuladores gerais" = dword: 00000064
+"joystick" = dword: 000003e8
+"keyboardSpeed" = "100"
+"LEFTCLICK" = dword: 000003e8
+"MouseSensitivity" = dword: 00000064
+"MouseSpeed" = dword: 00000064
+"sensibilidade" = dword: 00000064
+"SMALLESTWIDHT" = dword: 000002ee
+"speedofmovement" = dword: 00000064
+"touchsensitivyty" = dword: 00000102
+"X" = dword: 000020e8
+"Y" = dword: 000003e8
+"LastInitRendererFailed_0" = dword: 00000000
+"InstalledAPKList" = "com.dts.freefireth, com.n0n3m4.gltools, com.noshufou.android.su, mobi.omegacentauri.red_pro,"
+"LastBsodReportTime" = dword: 07e40605
+"Idioma" = "pt_PT"
 "com.dts.freefireth_LastUpdate"
-"com.dts.freefireth_Keyboardtips"=dword:00000001
-"AndroidWidth"=dword:00000640
-"AndroidHeight"=dword:00000400
-"AndroidDPI"=dword:00000400
+"com.dts.freefireth_Keyboardtips" = dword: 00000001
+"AndroidWidth" = dword: 00000640
+"AndroidHeight" = dword: 00000400
+"AndroidDPI" = dword: 00000400
 
-[HKEY_CURRENT_USER\Software\SmartGaGa\ProjectTitan\sensibility]
+[HKEY_CURRENT_USER \ Software \ SmartGaGa \ ProjectTitan \ sensibility]
 
-[HKEY_CURRENT_USER\Software\SmartGaGa\ProjectTitan\sensibility\0]
-"DPI"=dword:000007d0
-"Fov"=dword:000030e8
-"generalemulatorsensitivity"=dword:00000064
-"joystick"=dword:000003e8
-"keyboardSpeed"="100"
-"LEFTCLICK"=dword:000003e8
-"MouseSensitivity"=dword:00000064
-"MouseSpeed"=dword:00000064
-"sensitivity"=dword:00000064
-"SMALLESTWIDHT"=dword:000002ee
-"speedofmovement"=dword:00000064
-"touchsensitivyty"=dword:00000102
-"X"=dword:000020e8
-"Y"=dword:000003e8
-"LastInitRendererFailed_0"=dword:00000000
-"InstalledAPKList"="com.dts.freefireth,com.n0n3m4.gltools,com.noshufou.android.su,mobi.omegacentauri.red_pro,"
-"LastBsodReportTime"=dword:07e40605
-"Language"="pt_PT"
+[HKEY_CURRENT_USER \ Software \ SmartGaGa \ ProjectTitan \ sensibility \ 0]
+"DPI" = dword: 000007d0
+"Fov" = dword: 000030e8
+"sensibilidade emuladores gerais" = dword: 00000064
+"joystick" = dword: 000003e8
+"keyboardSpeed" = "100"
+"LEFTCLICK" = dword: 000003e8
+"MouseSensitivity" = dword: 00000064
+"MouseSpeed" = dword: 00000064
+"sensibilidade" = dword: 00000064
+"SMALLESTWIDHT" = dword: 000002ee
+"speedofmovement" = dword: 00000064
+"touchsensitivyty" = dword: 00000102
+"X" = dword: 000020e8
+"Y" = dword: 000003e8
+"LastInitRendererFailed_0" = dword: 00000000
+"InstalledAPKList" = "com.dts.freefireth, com.n0n3m4.gltools, com.noshufou.android.su, mobi.omegacentauri.red_pro,"
+"LastBsodReportTime" = dword: 07e40605
+"Idioma" = "pt_PT"
 "com.dts.freefireth_LastUpdate"
-"com.dts.freefireth_Keyboardtips"=dword:00000001
-"AndroidWidth"=dword:00000640
-"AndroidHeight"=dword:00000400
-"AndroidDPI"=dword:00000400
-
-
-
-
+"com.dts.freefireth_Keyboardtips" = dword: 00000001
+"AndroidWidth" = dword: 00000640
+"AndroidHeight" = dword: 00000400
+"AndroidDPI" = dword: 00000400
